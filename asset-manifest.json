@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/travlog/static/css/main.55321150.css",
-    "main.js": "/travlog/static/js/main.a913c319.js",
+    "main.css": "/travlog/static/css/main.fcb7f122.css",
+    "main.js": "/travlog/static/js/main.ee593d90.js",
     "static/js/787.024b79fc.chunk.js": "/travlog/static/js/787.024b79fc.chunk.js",
-    "static/media/Earth.png": "/travlog/static/media/Earth.1204086e9efd49dd42e7.png",
     "index.html": "/travlog/index.html",
-    "main.55321150.css.map": "/travlog/static/css/main.55321150.css.map",
-    "main.a913c319.js.map": "/travlog/static/js/main.a913c319.js.map",
+    "main.fcb7f122.css.map": "/travlog/static/css/main.fcb7f122.css.map",
+    "main.ee593d90.js.map": "/travlog/static/js/main.ee593d90.js.map",
     "787.024b79fc.chunk.js.map": "/travlog/static/js/787.024b79fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55321150.css",
-    "static/js/main.a913c319.js"
+    "static/css/main.fcb7f122.css",
+    "static/js/main.ee593d90.js"
   ]
 }
